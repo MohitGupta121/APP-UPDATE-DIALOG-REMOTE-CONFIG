@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185952795580",
+    "firebase_url": "https://updatedialog.firebaseio.com",
+    "project_id": "updatedialog",
+    "storage_bucket": "updatedialog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185952795580:android:214c0494674c7915fa09b9",
+        "android_client_info": {
+          "package_name": "com.example.updatedialog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185952795580-9eaa4pk4if67cup1s2ktnt0jnvl26isq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSD1VGzGi0wtrrWy74bT--NrFW0kwyV9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185952795580-9eaa4pk4if67cup1s2ktnt0jnvl26isq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
